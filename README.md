@@ -21,7 +21,7 @@ Dataset contains approximately 3000 recent sold real estate information from 201
 * Building Type (Apartment, House, Condo, etc.)
 * Square Foot
 
-###### Highlights:
+###### Model Highlights:
 * Applied various prediction approaches such as simple linear regression (OLS), regularized least squares regression (L1 and L2), with hyperparameter tuning
 * To meet linear regression assumptions, tried different transformations to make highly skewed distributions less skewed
 * For robust regression, that is less sensitive to outliers in data than the squared error loss, utilized Huber loss function

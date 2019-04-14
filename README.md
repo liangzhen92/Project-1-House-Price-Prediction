@@ -1,4 +1,4 @@
-# Project-1-House-Price-Prediction
+# Project-2-House-Price-Prediction
 
 ### Focus:
 Predict house price in four different areas: Daly City, Pacifica, San Mateo and San Francisco.
